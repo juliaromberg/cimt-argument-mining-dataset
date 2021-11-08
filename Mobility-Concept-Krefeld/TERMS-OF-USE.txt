@@ -1,0 +1,22 @@
+Data of "Krefeld bewegen"
+
+Version 1.0 (10/04/2021)
+
+These files contain the public suggestions posted on the krefeld-bewegen.de platform by participants during the public participation process "Krefeld bewegen" from January 20, 2020 to February 21, 2020.
+
+All posted content is originally under the Creative Commons CC-by license (https://creativecommons.org/licenses/by/4.0/), which means that it may be reused free of charge, provided that the user name of the author and the URL of the respective contribution are mentioned. To enable future anonymization by the platform provider, we provide only the URL of the respective contribution from which the user name is available. No liability is assumed for the correctness of the contributions.
+
+Reference to the original dataset:
+
+Stadt Krefeld
+Der Oberbürgermeister
+Fachbereich Stadt- und Verkehrsplanung
+Parkstraße 10
+47829 Krefeld
+
+FB61@krefeld.de
+
+
+Changelog
+
+Version 1.1: Removal of usernames

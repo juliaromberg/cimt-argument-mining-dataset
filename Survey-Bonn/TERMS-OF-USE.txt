@@ -1,0 +1,17 @@
+Data of survey about living in Bonn 2017 ("Umfrage zum Leben in Bonn 2017")
+
+Version 1.0 (10/06/2021)
+
+These files contain the anonymized suggestions by participants of the survey about living in Bonn conducted in 2017.
+
+All posted content is originally under the Creative Commons CC BY-SA License (https://creativecommons.org/licenses/by-sa/4.0/). No liability is assumed for the correctness of the contributions.
+
+Reference to the original dataset:
+
+Umfrage zum Leben in Bonn 2017
+Author: Tobias Escher
+Düsseldorf Institute for Internet and Democracy
+Heinrich Heine University Düsseldorf
+(escher@diid.hhu.de)
+
+For inquiries, please contact Tobias Escher at escher@diid.hhu.de.

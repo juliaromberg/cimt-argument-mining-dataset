@@ -1,5 +1,3 @@
-# cimt-argument-mining-dataset
-
 November 08, 2021 (corpus version 1.0)
 
 About
