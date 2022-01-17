@@ -1,10 +1,10 @@
-November 08, 2021 (corpus version 1.0)
+January 17, 2021 (corpus version 1.1)
 
 About
 
-This directory contains the datasets which were used in the publication "Citizen Involvement in Urban Planning - How Can Municipalities Be
-Supported in Evaluating Public Participation Processes for Mobility Transitions?", published in the Proceedings of the 8th Workshop on Argument Mining by the Association for Computational Linguistics. This work is based on research in the project CIMT/Partizipationsnutzen, which is funded by the Federal Ministry of Education and Research as part of its Social-Ecological Research funding priority, funding no. 01UU1904. (for more information, visit https://www.cimt-hhu.de/en/)
+This directory contains a dataset of public participation contributions coded with argument components. The dataset was used in the publication "Citizen Involvement in Urban Planning - How Can Municipalities Be Supported in Evaluating Public Participation Processes for Mobility Transitions?", published in the Proceedings of the 8th Workshop on Argument Mining by the Association for Computational Linguistics. The dataset is further described in the publication "A Corpus of German Citizen Contributions in Mobility Planning: Supporting Evaluation Through Multidimensional Classification", submitted to LREC 2022.
 
+This work is based on research in the project CIMT/Partizipationsnutzen, which is funded by the Federal Ministry of Education and Research as part of its Social-Ecological Research funding priority, funding no. 01UU1904. (for more information, visit https://www.cimt-hhu.de/en/)
 ----------
 
 Content
